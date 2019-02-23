@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ConverterX</string>
+
+    <string name="btn1">Celsius to Fahrenheit</string>
+    <string name="btn2">Fahrenheit to Celsius</string>
+    <string name="btn3">Exit</string>
+
+    <string name="cbtn1">Convert</string>
+    <string name="cbtn2">Cancel</string>
+    <string name="cbtn4">Exit</string>
+    <string name="ctv1">Celsius to Fahrenheit</string>
+    <string name="ctv2">Celsius</string>
+    <string name="ctv4">0</string>
+
+    <string name="fbtn1">Convert</string>
+    <string name="fbtn2">Cancel</string>
+    <string name="fbtn4">Exit</string>
+    <string name="ftv1">Fahrenheit to Celsius</string>
+    <string name="ftv4">0</string>
+
+</resources>
